@@ -1,16 +1,16 @@
 // App.js
 
 import React from 'react';
-// import Table from './Table';
 import NavBar from './NavBar';
 import LoginSignup from './Components/Asset/LoginSignup';
+import Footer from './Components/Asset/Footer';
 
 function App() {
   return (
     <div>
        < NavBar />
        <LoginSignup />
-       {/* <Table /> */}
+       <Footer />
     </div>
   );
 }
