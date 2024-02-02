@@ -2,7 +2,7 @@ import React from 'react';
 
 function NavBar() {
   return (
-    <div className='bg-gray-800 p-2 flex items-center  text-center'>
+    <div className='p-2 flex items-center  text-center'>
         <h1 className='mx-10 uppercase'>
           <span className='text-[18px]'>new</span>
           <span className='text-red-500 text-[14px]'>
